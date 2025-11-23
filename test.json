@@ -20,7 +20,7 @@
     "overdue": {
       "isOverdue": true,
       "overdueEMICount": 2,
-      "overdueAmount": 17060,
+      "overdueAmount": 20000,
       "lastPaymentDate": "2025-09-10",
       "daysPastDue": 45
     }
