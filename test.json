@@ -1,3 +1,35 @@
 {
-    "abc":"12344"
+  "customer": {
+    "customerId": "CUST-102931",
+    "name": "Rahul Sharma",
+    "phoneNumber": "+91XXXXXXXXXX",
+    "email": "rahul.sharma@example.com"
+  },
+  "loanAccount": {
+    "loanAccountId": "LN-567890",
+    "loanType": "Personal Loan",
+    "loanAmount": 250000,
+    "interestRate": 13.5,
+    "tenureMonths": 36,
+    "sanctionedDate": "2023-04-15",
+    "emiAmount": 8530,
+    "nextDueDate": "2025-12-10",
+    "totalEMIs": 36,
+    "emiPaidCount": 18,
+    "emiPendingCount": 18,
+    "overdue": {
+      "isOverdue": true,
+      "overdueEMICount": 2,
+      "overdueAmount": 17060,
+      "lastPaymentDate": "2025-09-10",
+      "daysPastDue": 45
+    }
+  },
+  "communicationPreferences": {
+    "preferredLanguage": "English",
+    "preferredContactTime": "Evening",
+    "allowSMS": true,
+    "allowCalls": true
+  }
 }
+ztp-fngv-fjp
